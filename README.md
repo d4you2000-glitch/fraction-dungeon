@@ -1,2 +1,2 @@
 # fraction-dungeon
-분수 게임
+약분게임
